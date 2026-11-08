@@ -1,5 +1,5 @@
 # QR Code Generator
-
+![Screenshot](SCREENSHOTS.png.png)
 A simple desktop app built with Python and Tkinter that turns any text or link into a QR code you can save as an image.
 
 ## Features
